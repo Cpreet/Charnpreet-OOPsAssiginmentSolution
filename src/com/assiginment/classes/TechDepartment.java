@@ -6,7 +6,7 @@ public class TechDepartment extends SuperDepartment{
     }   
     
     public String getTodaysWork() {
-        return "Complete Coding of Module 1";
+        return "Complete coding of Module 1";
     }
 
     public String getWorkDeadline() {
@@ -14,6 +14,6 @@ public class TechDepartment extends SuperDepartment{
     }
 
     public String getTechStackInformation() {
-        return "core Java";
+        return "Core Java";
     }
 }
